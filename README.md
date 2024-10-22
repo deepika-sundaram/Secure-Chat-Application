@@ -39,8 +39,7 @@ Create a real-time chat application that emphasizes secure messaging, utilizing 
   - Continuous Integration/Continuous Deployment pipelines will be set up for smooth and automated updates.
 
 ## Performance Goals
-- Support at least 1000 concurrent users with messages delivered in under 1 second.
-- Ensure the application remains responsive and smooth across both mobile and desktop platforms.
+- Support at least 1000 concurrent users with messages delivered in under 1 second
 
 ## Non-Functional Requirements
 - **Data Security:** 
@@ -49,7 +48,6 @@ Create a real-time chat application that emphasizes secure messaging, utilizing 
   - Regular database backups and a recovery plan to handle data restoration.
 - **Usability:** 
   - Ensure the UI is intuitive and accessible, providing user feedback for actions like sending or deleting messages.
-
 
 
 ## TechStack
