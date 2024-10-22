@@ -57,7 +57,7 @@ Create a real-time chat application that emphasizes secure messaging, utilizing 
 - **Styling:** Tailwind CSS
 - **Real-time Communication:** Socket.IO or native WebSockets
 ## Backend
-- **Programming Language:** Node.js (JavaScript) and Java
+- **Programming Language:** Node.js (JavaScript)
 - **Web Framework:** Express (for Node.js)
 - **Database:** PostgreSQL (SQL)
 - **Authentication:** JWT for token-based authentication
