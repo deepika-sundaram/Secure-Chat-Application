@@ -95,14 +95,13 @@ Create a real-time chat application that emphasizes secure messaging, utilizing 
 - Create user documentation and API documentation.
 - Conduct training sessions for stakeholders and end users.
 
-### TechStack
+## TechStack
 ## Frontend
 - **Framework:** React.js
 - **State Management:** Redux
 - **Styling:** Tailwind CSS
 - **Real-time Communication:** Socket.IO or native WebSockets
-
-### Backend
+## Backend
 - **Programming Language:** Node.js (JavaScript) and Java
 - **Web Framework:** Express (for Node.js)
 - **Database:** PostgreSQL (SQL)
