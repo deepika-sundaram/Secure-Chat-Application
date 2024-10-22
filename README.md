@@ -32,7 +32,7 @@ Create a real-time chat application that emphasizes secure messaging, utilizing 
 
 ## Deployment and Infrastructure
 - **Hosting:** 
-  - Hosted on a cloud platform (e.g., AWS, Heroku, or DigitalOcean), using Docker containers for deployment.
+  - Hosted on a cloud platform (AWS), using Docker containers for deployment.
 - **Database:** 
   - A PostgreSQL database will store user accounts, message histories, and group data.
 - **CI/CD Pipelines:** 
