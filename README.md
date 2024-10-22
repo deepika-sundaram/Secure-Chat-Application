@@ -50,50 +50,7 @@ Create a real-time chat application that emphasizes secure messaging, utilizing 
 - **Usability:** 
   - Ensure the UI is intuitive and accessible, providing user feedback for actions like sending or deleting messages.
 
-## Milestones
 
-### Milestone 1: Project Setup and Planning
-- Define project scope and goals.
-- Identify stakeholders and user personas.
-- Choose the tech stack.
-- Set up version control (e.g., GitHub).
-
-### Milestone 2: User Authentication
-- Implement user registration and login functionality.
-- Use JWT (JSON Web Tokens) for authentication.
-- Secure password storage with hashing (e.g., bcrypt).
-
-### Milestone 3: Real-Time Messaging
-- Set up a WebSocket server for real-time communication.
-- Implement the messaging interface for one-on-one chats.
-
-### Milestone 4: End-to-End Encryption
-- Integrate end-to-end encryption using protocols like Signal or Noise.
-- Ensure messages are encrypted before sending and decrypted after receiving.
-
-### Milestone 5: Self-Destructing Messages
-- Implement functionality for self-destructing messages based on a timer set by the sender.
-- Allow users to toggle self-destructing options for specific messages.
-
-### Milestone 6: Group Chat Functionality
-- Implement secure group chat features.
-- Manage group creation, membership, and permissions.
-
-### Milestone 7: User Interface and Experience
-- Design a user-friendly interface using a frontend framework.
-- Ensure the application is responsive and accessible.
-
-### Milestone 8: Testing and Security Audit
-- Conduct unit tests, integration tests, and user acceptance tests.
-- Perform a security audit to identify and fix vulnerabilities.
-
-### Milestone 9: Deployment
-- Deploy the application to a cloud platform (e.g., AWS).
-- Set up continuous integration and deployment (CI/CD) pipelines.
-
-### Milestone 10: Documentation and Training
-- Create user documentation and API documentation.
-- Conduct training sessions for stakeholders and end users.
 
 ## TechStack
 ## Frontend
