@@ -6,6 +6,7 @@ Create a real-time chat application that emphasizes secure messaging, utilizing 
 ## Application Type
 - Real-time chat application prioritizing security and user privacy through end-to-end encryption (E2EE).
 - Supports one-on-one and group chats.
+- Allows users to send self-destructing messages based on timers.
 
 
 ## Core Features
